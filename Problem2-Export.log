@@ -1,0 +1,289 @@
+21.01.2026 21:25:47.799 : Information - RTU "Ozerna" - Export started.
+21.01.2026 21:25:47.799 : Information - RTU "Ozerna" - Start export worksheet 'CP02'.
+21.01.2026 21:25:47.802 : Information - Sheet "CP02" / Row 6 - Object 'Ozerna    CP2 Addr10Akon 310  ТС04 Резерв к10  Бакали' exported, not modified.
+21.01.2026 21:25:47.802 : Information - Sheet "CP02" / Row 6 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС04 Резерв к10  Бакали' Added
+21.01.2026 21:25:47.805 : Information - Sheet "CP02" / Row 7 - Object 'Ozerna    CP2 Addr10Akon 310  ТС03 Резерв к10  Бакали' exported, not modified.
+21.01.2026 21:25:47.805 : Information - Sheet "CP02" / Row 7 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС03 Резерв к10  Бакали' Added
+21.01.2026 21:25:47.808 : Information - Sheet "CP02" / Row 8 - Object 'Ozerna    CP2 Addr10Akon 310  ТС02Полож к10 10 кВ Бакали' exported, not modified.
+21.01.2026 21:25:47.808 : Information - Sheet "CP02" / Row 8 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС02Полож к10 10 кВ Бакали' Added
+21.01.2026 21:25:47.811 : Information - Sheet "CP02" / Row 9 - Object 'Ozerna    CP2 Addr10Akon 310  ТС01 М(0)/Д(1) к10 Бакали' exported, not modified.
+21.01.2026 21:25:47.811 : Information - Sheet "CP02" / Row 9 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС01 М(0)/Д(1) к10 Бакали' Added
+21.01.2026 21:25:47.814 : Information - Sheet "CP02" / Row 10 - Object 'Ozerna    CP2 Addr10Akon 310  ТК01 ком. 10 В-10 Бакали' exported, not modified.
+21.01.2026 21:25:47.814 : Information - Sheet "CP02" / Row 10 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SCO  : Ozerna    CP2 Addr10Akon 310  ТК01 ком. 10 В-10 Бакали' Added
+21.01.2026 21:25:47.823 : Information - Sheet "CP02" / Row 11 - Object 'Ozerna    CP2 Addr10Akon 310  ТВ01 Ia к 10 Бакали' exported, not modified.
+21.01.2026 21:25:47.823 : Information - Sheet "CP02" / Row 11 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | MFI  : Ozerna    CP2 Addr10Akon 310  ТВ01 Ia к 10 Бакали' Added
+21.01.2026 21:25:47.827 : Information - Sheet "CP02" / Row 12 - Object 'Ozerna    CP2 Addr08Akon 310  ТС01 М(0)/Д(1) к8 СВ-10' exported, not modified.
+21.01.2026 21:25:47.827 : Information - Sheet "CP02" / Row 12 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС01 М(0)/Д(1) к8 СВ-10' Added
+21.01.2026 21:25:47.830 : Information - Sheet "CP02" / Row 13 - Object 'Ozerna    CP2 Addr08Akon 310  ТС02 Полож к8 В-10 кВ СВ10' exported, not modified.
+21.01.2026 21:25:47.830 : Information - Sheet "CP02" / Row 13 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС02 Полож к8 В-10 кВ СВ10' Added
+21.01.2026 21:25:47.833 : Information - Sheet "CP02" / Row 14 - Object 'Ozerna    CP2 Addr08Akon 310  ТК01 Керув к8 В-10 кВ СВ10' exported, not modified.
+21.01.2026 21:25:47.833 : Information - Sheet "CP02" / Row 14 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SCO  : Ozerna    CP2 Addr08Akon 310  ТК01 Керув к8 В-10 кВ СВ10' Added
+21.01.2026 21:25:47.837 : Information - Sheet "CP02" / Row 15 - Object 'Ozerna    CP2 Addr08Akon 310  ТВ01 Ia к8 В-10 кВ СВ-10' exported, not modified.
+21.01.2026 21:25:47.837 : Information - Sheet "CP02" / Row 15 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | MFI  : Ozerna    CP2 Addr08Akon 310  ТВ01 Ia к8 В-10 кВ СВ-10' Added
+21.01.2026 21:25:47.844 : Information - Sheet "CP02" / Row 16 - Object 'Ozerna    CP2 Addr08Akon 310  ТС03 контроль ШУ' exported, not modified.
+21.01.2026 21:25:47.844 : Information - Sheet "CP02" / Row 16 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС03 контроль ШУ' Added
+21.01.2026 21:25:47.848 : Information - Sheet "CP02" / Row 17 - Object 'Ozerna    CP2 Addr08Akon 310  ТС04Резерв к8 В-10 кВ СВ10' exported, not modified.
+21.01.2026 21:25:47.848 : Information - Sheet "CP02" / Row 17 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС04Резерв к8 В-10 кВ СВ10' Added
+21.01.2026 21:25:47.851 : Information - Sheet "CP02" / Row 18 - Object 'Ozerna    CP2 Addr12Akon 310  ТС04 "Земля" в мережі 2сш.' exported, not modified.
+21.01.2026 21:25:47.852 : Information - Sheet "CP02" / Row 18 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС04 "Земля" в мережі 2сш.' Added
+21.01.2026 21:25:47.855 : Information - Sheet "CP02" / Row 19 - Object 'Ozerna    CP2 Addr12Akon 310  ТС03 Несправність ТН-10-2' exported, not modified.
+21.01.2026 21:25:47.855 : Information - Sheet "CP02" / Row 19 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС03 Несправність ТН-10-2' Added
+21.01.2026 21:25:47.858 : Information - Sheet "CP02" / Row 20 - Object 'Ozerna    CP2 Addr12Akon 310  ТС02 Полож к12 Щербаки' exported, not modified.
+21.01.2026 21:25:47.858 : Information - Sheet "CP02" / Row 20 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС02 Полож к12 Щербаки' Added
+21.01.2026 21:25:47.865 : Information - Sheet "CP02" / Row 21 - Object 'Ozerna    CP2 Addr12Akon 310  ТС01 М(0)/Д(1) к12 Щербаки' exported, not modified.
+21.01.2026 21:25:47.865 : Information - Sheet "CP02" / Row 21 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС01 М(0)/Д(1) к12 Щербаки' Added
+21.01.2026 21:25:47.868 : Information - Sheet "CP02" / Row 22 - Object 'Ozerna    CP2 Addr12Akon 310  ТК01 Керув. к.12 Щербаки' exported, not modified.
+21.01.2026 21:25:47.868 : Information - Sheet "CP02" / Row 22 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SCO  : Ozerna    CP2 Addr12Akon 310  ТК01 Керув. к.12 Щербаки' Added
+21.01.2026 21:25:47.872 : Information - Sheet "CP02" / Row 23 - Object 'Ozerna    CP2 Addr12Akon 310  ТВ01 Ia к12 Щербаки' exported, not modified.
+21.01.2026 21:25:47.872 : Information - Sheet "CP02" / Row 23 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | MFI  : Ozerna    CP2 Addr12Akon 310  ТВ01 Ia к12 Щербаки' Added
+21.01.2026 21:25:47.875 : Information - Sheet "CP02" / Row 24 - Object 'Ozerna    CP2 Addr16Akon 310  ТС04 Резерв к.14 Т-2' exported, not modified.
+21.01.2026 21:25:47.875 : Information - Sheet "CP02" / Row 24 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС04 Резерв к.14 Т-2' Added
+21.01.2026 21:25:47.879 : Information - Sheet "CP02" / Row 25 - Object 'Ozerna    CP2 Addr16Akon 310  ТС03 Резерв к.14 Т-2' exported, not modified.
+21.01.2026 21:25:47.879 : Information - Sheet "CP02" / Row 25 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС03 Резерв к.14 Т-2' Added
+21.01.2026 21:25:47.886 : Information - Sheet "CP02" / Row 26 - Object 'Ozerna    CP2 Addr16Akon 310  ТС02 Полож. к.14 Т-2' exported, not modified.
+21.01.2026 21:25:47.886 : Information - Sheet "CP02" / Row 26 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС02 Полож. к.14 Т-2' Added
+21.01.2026 21:25:47.890 : Information - Sheet "CP02" / Row 27 - Object 'Ozerna    CP2 Addr16Akon 310  ТС01 М(0)/Д(1) ком.14 Т2' exported, not modified.
+21.01.2026 21:25:47.890 : Information - Sheet "CP02" / Row 27 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС01 М(0)/Д(1) ком.14 Т2' Added
+21.01.2026 21:25:47.893 : Information - Sheet "CP02" / Row 28 - Object 'Ozerna    CP2 Addr16Akon 310  ТК01 Керув. к14 В-10 кВ Т2' exported, not modified.
+21.01.2026 21:25:47.893 : Information - Sheet "CP02" / Row 28 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SCO  : Ozerna    CP2 Addr16Akon 310  ТК01 Керув. к14 В-10 кВ Т2' Added
+21.01.2026 21:25:47.897 : Information - Sheet "CP02" / Row 29 - Object 'Ozerna    CP2 Addr16Akon 310  ТВ02 UАB 2 сш.10кВ' exported, not modified.
+21.01.2026 21:25:47.897 : Information - Sheet "CP02" / Row 29 - Object name 'CP2 Addr16 В-10 кВ Т-2 | MFI  : Ozerna    CP2 Addr16Akon 310  ТВ02 UАB 2 сш.10кВ' Added
+21.01.2026 21:25:47.903 : Information - Sheet "CP02" / Row 30 - Object 'Ozerna    CP2 Addr16Akon 310  ТВ01 Ia к14 В-10 кВ Т-2' exported, not modified.
+21.01.2026 21:25:47.903 : Information - Sheet "CP02" / Row 30 - Object name 'CP2 Addr16 В-10 кВ Т-2 | MFI  : Ozerna    CP2 Addr16Akon 310  ТВ01 Ia к14 В-10 кВ Т-2' Added
+21.01.2026 21:25:47.907 : Information - Sheet "CP02" / Row 31 - Object 'Ozerna    CP2 Addr11Akon 310  ТС04 Резерв ком.11 РП1' exported, not modified.
+21.01.2026 21:25:47.907 : Information - Sheet "CP02" / Row 31 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС04 Резерв ком.11 РП1' Added
+21.01.2026 21:25:47.911 : Information - Sheet "CP02" / Row 32 - Object 'Ozerna    CP2 Addr11Akon 310  ТС03 Резерв ком.11 РП1' exported, not modified.
+21.01.2026 21:25:47.911 : Information - Sheet "CP02" / Row 32 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС03 Резерв ком.11 РП1' Added
+21.01.2026 21:25:47.914 : Information - Sheet "CP02" / Row 33 - Object 'Ozerna    CP2 Addr11Akon 310  ТС02 Полож к.11 В10 кВ РП1' exported, not modified.
+21.01.2026 21:25:47.914 : Information - Sheet "CP02" / Row 33 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС02 Полож к.11 В10 кВ РП1' Added
+21.01.2026 21:25:47.917 : Information - Sheet "CP02" / Row 34 - Object 'Ozerna    CP2 Addr11Akon 310  ТС01 М(0)/Д(1) к11 РП 1' exported, not modified.
+21.01.2026 21:25:47.917 : Information - Sheet "CP02" / Row 34 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС01 М(0)/Д(1) к11 РП 1' Added
+21.01.2026 21:25:47.923 : Information - Sheet "CP02" / Row 35 - Object 'Ozerna    CP2 Addr11Akon 310  ТК01Керув ком11 В10 кВ РП1' exported, not modified.
+21.01.2026 21:25:47.923 : Information - Sheet "CP02" / Row 35 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SCO  : Ozerna    CP2 Addr11Akon 310  ТК01Керув ком11 В10 кВ РП1' Added
+21.01.2026 21:25:47.928 : Information - Sheet "CP02" / Row 36 - Object 'Ozerna    CP2 Addr11Akon 310  ТВ01 Ia  к.11 В-10 кВ РП 1' exported, not modified.
+21.01.2026 21:25:47.928 : Information - Sheet "CP02" / Row 36 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | MFI  : Ozerna    CP2 Addr11Akon 310  ТВ01 Ia  к.11 В-10 кВ РП 1' Added
+21.01.2026 21:25:47.933 : Information - Sheet "CP02" / Row 37 - Object 'Ozerna    CP2 Addr07Akon 310  ТС01 М(0)/Д(1) к7Сільгосп.' exported, not modified.
+21.01.2026 21:25:47.933 : Information - Sheet "CP02" / Row 37 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС01 М(0)/Д(1) к7Сільгосп.' Added
+21.01.2026 21:25:47.938 : Information - Sheet "CP02" / Row 38 - Object 'Ozerna    CP2 Addr07Akon 310  ТС02 Полож к7Сільгосп. Тех' exported, not modified.
+21.01.2026 21:25:47.938 : Information - Sheet "CP02" / Row 38 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС02 Полож к7Сільгосп. Тех' Added
+21.01.2026 21:25:47.943 : Information - Sheet "CP02" / Row 39 - Object 'Ozerna    CP2 Addr07Akon 310  ТК01 Керув к7Сільгосп. Тех' exported, not modified.
+21.01.2026 21:25:47.943 : Information - Sheet "CP02" / Row 39 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SCO  : Ozerna    CP2 Addr07Akon 310  ТК01 Керув к7Сільгосп. Тех' Added
+21.01.2026 21:25:47.951 : Information - Sheet "CP02" / Row 40 - Object 'Ozerna    CP2 Addr07Akon 310  ТВ01 Ia к7 Сільгосп. Тех.' exported, not modified.
+21.01.2026 21:25:47.951 : Information - Sheet "CP02" / Row 40 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | MFI  : Ozerna    CP2 Addr07Akon 310  ТВ01 Ia к7 Сільгосп. Тех.' Added
+21.01.2026 21:25:47.956 : Information - Sheet "CP02" / Row 41 - Object 'Ozerna    CP2 Addr07Akon 310  ТС03Резерв к7Сільгосп. Тех' exported, not modified.
+21.01.2026 21:25:47.956 : Information - Sheet "CP02" / Row 41 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС03Резерв к7Сільгосп. Тех' Added
+21.01.2026 21:25:47.960 : Information - Sheet "CP02" / Row 42 - Object 'Ozerna    CP2 Addr07Akon 310  ТС04Резерв к7Сільгосп. Тех' exported, not modified.
+21.01.2026 21:25:47.960 : Information - Sheet "CP02" / Row 42 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС04Резерв к7Сільгосп. Тех' Added
+21.01.2026 21:25:47.964 : Information - Sheet "CP02" / Row 43 - Object '' exported, not modified.
+21.01.2026 21:25:47.964 : Information - Sheet "CP02" / Row 43 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:47.967 : Information - Sheet "CP02" / Row 44 - Object '' exported, not modified.
+21.01.2026 21:25:47.967 : Information - Sheet "CP02" / Row 44 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:47.974 : Information - Sheet "CP02" / Row 45 - Object '' exported, not modified.
+21.01.2026 21:25:47.974 : Information - Sheet "CP02" / Row 45 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:47.977 : Information - Sheet "CP02" / Row 46 - Object '' exported, not modified.
+21.01.2026 21:25:47.977 : Information - Sheet "CP02" / Row 46 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:47.980 : Information - Sheet "CP02" / Row 47 - Object '' exported, not modified.
+21.01.2026 21:25:47.980 : Information - Sheet "CP02" / Row 47 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:47.983 : Information - Sheet "CP02" / Row 48 - Object '' exported, not modified.
+21.01.2026 21:25:47.984 : Information - Sheet "CP02" / Row 48 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:47.984 : Information - RTU "Ozerna" - 0 rows updated, 43 rows added, 0 rows deleted, 43 rows processed
+21.01.2026 21:25:47.984 : Information - RTU "Ozerna" - Finished export worksheet 'CP02'
+21.01.2026 21:25:47.984 : Information - RTU "Ozerna" - Start export worksheet 'CP01'.
+21.01.2026 21:25:47.988 : Information - Sheet "CP01" / Row 6 - Object 'Ozerna    CP1 Addr1kAkon 310  ТС04 Резерв к1 10кВ Резерв' exported, not modified.
+21.01.2026 21:25:47.988 : Information - Sheet "CP01" / Row 6 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС04 Резерв к1 10кВ Резерв' Added
+21.01.2026 21:25:47.991 : Information - Sheet "CP01" / Row 7 - Object 'Ozerna    CP1 Addr1kAkon 310  ТС03 Резерв к1 10кВ Резерв' exported, not modified.
+21.01.2026 21:25:47.991 : Information - Sheet "CP01" / Row 7 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС03 Резерв к1 10кВ Резерв' Added
+21.01.2026 21:25:48.000 : Information - Sheet "CP01" / Row 8 - Object 'Ozerna    CP1 Addr1kAkon 310  ТВ01 Ia к1 10 кВ Резерв' exported, not modified.
+21.01.2026 21:25:48.000 : Information - Sheet "CP01" / Row 8 - Object name 'CP1 Addr1 10 кВ "Резерв" | MFI  : Ozerna    CP1 Addr1kAkon 310  ТВ01 Ia к1 10 кВ Резерв' Added
+21.01.2026 21:25:48.003 : Information - Sheet "CP01" / Row 9 - Object 'Ozerna    CP1 Addr1kAkon 310  ТК01 к1 10 кВ "Резерв"' exported, not modified.
+21.01.2026 21:25:48.003 : Information - Sheet "CP01" / Row 9 - Object name 'CP1 Addr1 10 кВ "Резерв" | SCO  : Ozerna    CP1 Addr1kAkon 310  ТК01 к1 10 кВ "Резерв"' Added
+21.01.2026 21:25:48.007 : Information - Sheet "CP01" / Row 10 - Object 'Ozerna    CP1 Addr1kAkon 310  ТС02 Полож к1 10 кВ Резерв' exported, not modified.
+21.01.2026 21:25:48.007 : Information - Sheet "CP01" / Row 10 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС02 Полож к1 10 кВ Резерв' Added
+21.01.2026 21:25:48.011 : Information - Sheet "CP01" / Row 11 - Object 'Ozerna    CP1 Addr1kAkon 310  ТС01 М(0)/Д(1) к1 Резерв' exported, not modified.
+21.01.2026 21:25:48.011 : Information - Sheet "CP01" / Row 11 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС01 М(0)/Д(1) к1 Резерв' Added
+21.01.2026 21:25:48.014 : Information - Sheet "CP01" / Row 12 - Object 'Ozerna    CP1 Addr2kAkon 310  ТС04 Резерв к2 "Межовий"' exported, not modified.
+21.01.2026 21:25:48.014 : Information - Sheet "CP01" / Row 12 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС04 Резерв к2 "Межовий"' Added
+21.01.2026 21:25:48.022 : Information - Sheet "CP01" / Row 13 - Object 'Ozerna    CP1 Addr2kAkon 310  ТС03 Резерв к2 "Межовий"' exported, not modified.
+21.01.2026 21:25:48.022 : Information - Sheet "CP01" / Row 13 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС03 Резерв к2 "Межовий"' Added
+21.01.2026 21:25:48.025 : Information - Sheet "CP01" / Row 14 - Object 'Ozerna    CP1 Addr2kAkon 310  ТВ01 Ia к2 В-10 кВ Межовий' exported, not modified.
+21.01.2026 21:25:48.025 : Information - Sheet "CP01" / Row 14 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | MFI  : Ozerna    CP1 Addr2kAkon 310  ТВ01 Ia к2 В-10 кВ Межовий' Added
+21.01.2026 21:25:48.028 : Information - Sheet "CP01" / Row 15 - Object 'Ozerna    CP1 Addr2kAkon 310  ТК01 вимикачем к2 Межовий' exported, not modified.
+21.01.2026 21:25:48.028 : Information - Sheet "CP01" / Row 15 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SCO  : Ozerna    CP1 Addr2kAkon 310  ТК01 вимикачем к2 Межовий' Added
+21.01.2026 21:25:48.031 : Information - Sheet "CP01" / Row 16 - Object 'Ozerna    CP1 Addr2kAkon 310  ТС02 Полож к2 В-10 Межовий' exported, not modified.
+21.01.2026 21:25:48.031 : Information - Sheet "CP01" / Row 16 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС02 Полож к2 В-10 Межовий' Added
+21.01.2026 21:25:48.037 : Information - Sheet "CP01" / Row 17 - Object 'Ozerna    CP1 Addr2kAkon 310  ТС01 М(0)/Д(1) к2 Межовий' exported, not modified.
+21.01.2026 21:25:48.037 : Information - Sheet "CP01" / Row 17 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС01 М(0)/Д(1) к2 Межовий' Added
+21.01.2026 21:25:48.041 : Information - Sheet "CP01" / Row 18 - Object 'Ozerna    CP1 Addr3kAkon 314  ТС04 Резерв к3 В-10 кВ Т-1' exported, not modified.
+21.01.2026 21:25:48.041 : Information - Sheet "CP01" / Row 18 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС04 Резерв к3 В-10 кВ Т-1' Added
+21.01.2026 21:25:48.044 : Information - Sheet "CP01" / Row 19 - Object 'Ozerna    CP1 Addr3kAkon 314  ТС03 Резерв к3 В-10 кВ Т-1' exported, not modified.
+21.01.2026 21:25:48.044 : Information - Sheet "CP01" / Row 19 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС03 Резерв к3 В-10 кВ Т-1' Added
+21.01.2026 21:25:48.047 : Information - Sheet "CP01" / Row 20 - Object 'Ozerna    CP1 Addr3kAkon 314  ТВ02 UАB 1 сш. 10 кВ к3 Т1' exported, not modified.
+21.01.2026 21:25:48.047 : Information - Sheet "CP01" / Row 20 - Object name 'CP1 Addr3  В-10 кВ Т-1 | MFI  : Ozerna    CP1 Addr3kAkon 314  ТВ02 UАB 1 сш. 10 кВ к3 Т1' Added
+21.01.2026 21:25:48.050 : Information - Sheet "CP01" / Row 21 - Object 'Ozerna    CP1 Addr3kAkon 314  ТВ01 Ia ком.3 В-10 кВ Т-1' exported, not modified.
+21.01.2026 21:25:48.050 : Information - Sheet "CP01" / Row 21 - Object name 'CP1 Addr3  В-10 кВ Т-1 | MFI  : Ozerna    CP1 Addr3kAkon 314  ТВ01 Ia ком.3 В-10 кВ Т-1' Added
+21.01.2026 21:25:48.055 : Information - Sheet "CP01" / Row 22 - Object 'Ozerna    CP1 Addr3kAkon 314  ТК01 Керування к3 В10 Т-1' exported, not modified.
+21.01.2026 21:25:48.055 : Information - Sheet "CP01" / Row 22 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SCO  : Ozerna    CP1 Addr3kAkon 314  ТК01 Керування к3 В10 Т-1' Added
+21.01.2026 21:25:48.058 : Information - Sheet "CP01" / Row 23 - Object 'Ozerna    CP1 Addr3kAkon 314  ТС02 Полож. к3 В10 кВ Т-1' exported, not modified.
+21.01.2026 21:25:48.058 : Information - Sheet "CP01" / Row 23 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС02 Полож. к3 В10 кВ Т-1' Added
+21.01.2026 21:25:48.061 : Information - Sheet "CP01" / Row 24 - Object 'Ozerna    CP1 Addr3kAkon 314  ТС01 М(0)/Д(1) к3 Т-1' exported, not modified.
+21.01.2026 21:25:48.061 : Information - Sheet "CP01" / Row 24 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС01 М(0)/Д(1) к3 Т-1' Added
+21.01.2026 21:25:48.064 : Information - Sheet "CP01" / Row 25 - Object 'Ozerna    CP1 Addr6kAkon 310  ТС04 Резерв к6  Сорокотяги' exported, not modified.
+21.01.2026 21:25:48.064 : Information - Sheet "CP01" / Row 25 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС04 Резерв к6  Сорокотяги' Added
+21.01.2026 21:25:48.067 : Information - Sheet "CP01" / Row 26 - Object 'Ozerna    CP1 Addr6kAkon 310  ТС03 Резерв к6  Сорокотяги' exported, not modified.
+21.01.2026 21:25:48.067 : Information - Sheet "CP01" / Row 26 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС03 Резерв к6  Сорокотяги' Added
+21.01.2026 21:25:48.073 : Information - Sheet "CP01" / Row 27 - Object 'Ozerna    CP1 Addr6kAkon 310  ТС02 Полож к6 Сорокотяги' exported, not modified.
+21.01.2026 21:25:48.073 : Information - Sheet "CP01" / Row 27 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС02 Полож к6 Сорокотяги' Added
+21.01.2026 21:25:48.077 : Information - Sheet "CP01" / Row 28 - Object 'Ozerna    CP1 Addr6kAkon 310  ТС01 М(0)/Д(1)к6Сорокотяги' exported, not modified.
+21.01.2026 21:25:48.077 : Information - Sheet "CP01" / Row 28 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС01 М(0)/Д(1)к6Сорокотяги' Added
+21.01.2026 21:25:48.080 : Information - Sheet "CP01" / Row 29 - Object 'Ozerna    CP1 Addr6kAkon 310  ТК01  к6 Сорокотяги' exported, not modified.
+21.01.2026 21:25:48.080 : Information - Sheet "CP01" / Row 29 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SCO  : Ozerna    CP1 Addr6kAkon 310  ТК01  к6 Сорокотяги' Added
+21.01.2026 21:25:48.083 : Information - Sheet "CP01" / Row 30 - Object 'Ozerna    CP1 Addr6kAkon 310  ТВ01 Ia к6 Сорокотяги' exported, not modified.
+21.01.2026 21:25:48.083 : Information - Sheet "CP01" / Row 30 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | MFI  : Ozerna    CP1 Addr6kAkon 310  ТВ01 Ia к6 Сорокотяги' Added
+21.01.2026 21:25:48.088 : Information - Sheet "CP01" / Row 31 - Object 'Ozerna    CP1 Addr5kAkon 310  ТВ01 Ia к5 Б. Гребля' exported, not modified.
+21.01.2026 21:25:48.088 : Information - Sheet "CP01" / Row 31 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | MFI  : Ozerna    CP1 Addr5kAkon 310  ТВ01 Ia к5 Б. Гребля' Added
+21.01.2026 21:25:48.094 : Information - Sheet "CP01" / Row 32 - Object 'Ozerna    CP1 Addr5kAkon 310  ТК01 Керування к5 Б.Гребля' exported, not modified.
+21.01.2026 21:25:48.094 : Information - Sheet "CP01" / Row 32 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SCO  : Ozerna    CP1 Addr5kAkon 310  ТК01 Керування к5 Б.Гребля' Added
+21.01.2026 21:25:48.097 : Information - Sheet "CP01" / Row 33 - Object 'Ozerna    CP1 Addr5kAkon 310  ТС04  "Земля" 1сш.' exported, not modified.
+21.01.2026 21:25:48.097 : Information - Sheet "CP01" / Row 33 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС04  "Земля" 1сш.' Added
+21.01.2026 21:25:48.100 : Information - Sheet "CP01" / Row 34 - Object 'Ozerna    CP1 Addr5kAkon 310  ТС03 Несправність ТН-10-1' exported, not modified.
+21.01.2026 21:25:48.100 : Information - Sheet "CP01" / Row 34 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС03 Несправність ТН-10-1' Added
+21.01.2026 21:25:48.103 : Information - Sheet "CP01" / Row 35 - Object 'Ozerna    CP1 Addr5kAkon 310  ТС02 Полож. К5 Б. Гребля' exported, not modified.
+21.01.2026 21:25:48.103 : Information - Sheet "CP01" / Row 35 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС02 Полож. К5 Б. Гребля' Added
+21.01.2026 21:25:48.106 : Information - Sheet "CP01" / Row 36 - Object 'Ozerna    CP1 Addr5kAkon 310  ТС01 М(0)/Д(1) к5 Б.Гребля' exported, not modified.
+21.01.2026 21:25:48.106 : Information - Sheet "CP01" / Row 36 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС01 М(0)/Д(1) к5 Б.Гребля' Added
+21.01.2026 21:25:48.112 : Information - Sheet "CP01" / Row 37 - Object '' exported, not modified.
+21.01.2026 21:25:48.112 : Information - Sheet "CP01" / Row 37 - Object name 'CP1 Addr1 10 кВ "Резерв" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.115 : Information - Sheet "CP01" / Row 38 - Object '' exported, not modified.
+21.01.2026 21:25:48.115 : Information - Sheet "CP01" / Row 38 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.117 : Information - Sheet "CP01" / Row 39 - Object '' exported, not modified.
+21.01.2026 21:25:48.117 : Information - Sheet "CP01" / Row 39 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.120 : Information - Sheet "CP01" / Row 40 - Object '' exported, not modified.
+21.01.2026 21:25:48.120 : Information - Sheet "CP01" / Row 40 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.122 : Information - Sheet "CP01" / Row 41 - Object '' exported, not modified.
+21.01.2026 21:25:48.122 : Information - Sheet "CP01" / Row 41 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.122 : Information - RTU "Ozerna" - 0 rows updated, 36 rows added, 0 rows deleted, 79 rows processed
+21.01.2026 21:25:48.122 : Information - RTU "Ozerna" - Finished export worksheet 'CP01'
+21.01.2026 21:25:48.122 : Information - RTU "Ozerna" - Start export worksheet 'Local IO'.
+21.01.2026 21:25:48.124 : Information - Sheet "Local IO" / Row 6 - Object '' exported, not modified.
+21.01.2026 21:25:48.124 : Information - Sheet "Local IO" / Row 6 - Object name 'Ozerna | SEV [#023: RTU is faulty]' Added
+21.01.2026 21:25:48.124 : Information - RTU "Ozerna" - 0 rows updated, 1 rows added, 0 rows deleted, 80 rows processed
+21.01.2026 21:25:48.124 : Information - RTU "Ozerna" - Finished export worksheet 'Local IO'
+21.01.2026 21:25:48.124 : Information - RTU "Ozerna" - Start export worksheet 'CP03'.
+21.01.2026 21:25:48.131 : Information - Sheet "CP03" / Row 6 - Object 'Ozerna    CP3Addr31 Akon 314  немаТВ02 U сш110_боАкон310' exported, not modified.
+21.01.2026 21:25:48.131 : Information - Sheet "CP03" / Row 6 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | MFI  : Ozerna    CP3Addr31 Akon 314  немаТВ02 U сш110_боАкон310' Added
+21.01.2026 21:25:48.134 : Information - Sheet "CP03" / Row 7 - Object 'Ozerna    CP3Addr31 Akon 314  ТВ01 Ia ВД110 кВ Т1' exported, not modified.
+21.01.2026 21:25:48.134 : Information - Sheet "CP03" / Row 7 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | MFI  : Ozerna    CP3Addr31 Akon 314  ТВ01 Ia ВД110 кВ Т1' Added
+21.01.2026 21:25:48.138 : Information - Sheet "CP03" / Row 8 - Object 'Ozerna    CP3Addr31 Akon 314  ТК01 відокремувачемВД110Т1' exported, not modified.
+21.01.2026 21:25:48.138 : Information - Sheet "CP03" / Row 8 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SCO  : Ozerna    CP3Addr31 Akon 314  ТК01 відокремувачемВД110Т1' Added
+21.01.2026 21:25:48.141 : Information - Sheet "CP03" / Row 9 - Object 'Ozerna    CP3Addr31 Akon 314  ТС01ключМ0/Д(1) ВД110кВ Т1' exported, not modified.
+21.01.2026 21:25:48.141 : Information - Sheet "CP03" / Row 9 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС01ключМ0/Д(1) ВД110кВ Т1' Added
+21.01.2026 21:25:48.145 : Information - Sheet "CP03" / Row 10 - Object 'Ozerna    CP3Addr31 Akon 314  ТС02 Положення КЗ' exported, not modified.
+21.01.2026 21:25:48.145 : Information - Sheet "CP03" / Row 10 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС02 Положення КЗ' Added
+21.01.2026 21:25:48.153 : Information - Sheet "CP03" / Row 11 - Object 'Ozerna    CP3Addr31 Akon 314  ТС03 Положення ВД' exported, not modified.
+21.01.2026 21:25:48.153 : Information - Sheet "CP03" / Row 11 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС03 Положення ВД' Added
+21.01.2026 21:25:48.158 : Information - Sheet "CP03" / Row 12 - Object 'Ozerna    CP3Addr31 Akon 314  ТС04 Газ. захист на сигнал' exported, not modified.
+21.01.2026 21:25:48.158 : Information - Sheet "CP03" / Row 12 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС04 Газ. захист на сигнал' Added
+21.01.2026 21:25:48.162 : Information - Sheet "CP03" / Row 13 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС01 Живлення КП (шафи ТМ)' exported, not modified.
+21.01.2026 21:25:48.162 : Information - Sheet "CP03" / Row 13 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС01 Живлення КП (шафи ТМ)' Added
+21.01.2026 21:25:48.165 : Information - Sheet "CP03" / Row 14 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС02 Ключ М0/Д1 ПС Озерна' exported, not modified.
+21.01.2026 21:25:48.165 : Information - Sheet "CP03" / Row 14 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС02 Ключ М0/Д1 ПС Озерна' Added
+21.01.2026 21:25:48.177 : Information - Sheet "CP03" / Row 15 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС03 Двері КП (шафи ТМ)' exported, not modified.
+21.01.2026 21:25:48.177 : Information - Sheet "CP03" / Row 15 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС03 Двері КП (шафи ТМ)' Added
+21.01.2026 21:25:48.181 : Information - Sheet "CP03" / Row 16 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС04 АВ в шафі ТМ вимкнено' exported, not modified.
+21.01.2026 21:25:48.181 : Information - Sheet "CP03" / Row 16 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС04 АВ в шафі ТМ вимкнено' Added
+21.01.2026 21:25:48.184 : Information - Sheet "CP03" / Row 17 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС05 Резерв' exported, not modified.
+21.01.2026 21:25:48.184 : Information - Sheet "CP03" / Row 17 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС05 Резерв' Added
+21.01.2026 21:25:48.189 : Information - Sheet "CP03" / Row 18 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС06 Резерв' exported, not modified.
+21.01.2026 21:25:48.189 : Information - Sheet "CP03" / Row 18 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС06 Резерв' Added
+21.01.2026 21:25:48.194 : Information - Sheet "CP03" / Row 19 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС07 Резерв' exported, not modified.
+21.01.2026 21:25:48.194 : Information - Sheet "CP03" / Row 19 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС07 Резерв' Added
+21.01.2026 21:25:48.199 : Information - Sheet "CP03" / Row 20 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС08 Аварія' exported, not modified.
+21.01.2026 21:25:48.199 : Information - Sheet "CP03" / Row 20 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС08 Аварія' Added
+21.01.2026 21:25:48.203 : Information - Sheet "CP03" / Row 21 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС09 Попередження' exported, not modified.
+21.01.2026 21:25:48.203 : Information - Sheet "CP03" / Row 21 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС09 Попередження' Added
+21.01.2026 21:25:48.206 : Information - Sheet "CP03" / Row 22 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС10 Перегруз Т-2' exported, not modified.
+21.01.2026 21:25:48.206 : Information - Sheet "CP03" / Row 22 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС10 Перегруз Т-2' Added
+21.01.2026 21:25:48.210 : Information - Sheet "CP03" / Row 23 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС11 Перегруз Т-1' exported, not modified.
+21.01.2026 21:25:48.210 : Information - Sheet "CP03" / Row 23 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС11 Перегруз Т-1' Added
+21.01.2026 21:25:48.213 : Information - Sheet "CP03" / Row 24 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС12 Резерв' exported, not modified.
+21.01.2026 21:25:48.213 : Information - Sheet "CP03" / Row 24 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС12 Резерв' Added
+21.01.2026 21:25:48.218 : Information - Sheet "CP03" / Row 25 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС13 Резерв' exported, not modified.
+21.01.2026 21:25:48.218 : Information - Sheet "CP03" / Row 25 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС13 Резерв' Added
+21.01.2026 21:25:48.222 : Information - Sheet "CP03" / Row 26 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС14 Резерв' exported, not modified.
+21.01.2026 21:25:48.222 : Information - Sheet "CP03" / Row 26 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС14 Резерв' Added
+21.01.2026 21:25:48.225 : Information - Sheet "CP03" / Row 27 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС15 Резерв' exported, not modified.
+21.01.2026 21:25:48.225 : Information - Sheet "CP03" / Row 27 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС15 Резерв' Added
+21.01.2026 21:25:48.228 : Information - Sheet "CP03" / Row 28 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС16 Резерв' exported, not modified.
+21.01.2026 21:25:48.228 : Information - Sheet "CP03" / Row 28 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС16 Резерв' Added
+21.01.2026 21:25:48.231 : Information - Sheet "CP03" / Row 29 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС17 Резерв' exported, not modified.
+21.01.2026 21:25:48.231 : Information - Sheet "CP03" / Row 29 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС17 Резерв' Added
+21.01.2026 21:25:48.236 : Information - Sheet "CP03" / Row 30 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС18 Резерв' exported, not modified.
+21.01.2026 21:25:48.236 : Information - Sheet "CP03" / Row 30 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС18 Резерв' Added
+21.01.2026 21:25:48.240 : Information - Sheet "CP03" / Row 31 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС19 Резерв' exported, not modified.
+21.01.2026 21:25:48.240 : Information - Sheet "CP03" / Row 31 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС19 Резерв' Added
+21.01.2026 21:25:48.243 : Information - Sheet "CP03" / Row 32 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС20 Резерв' exported, not modified.
+21.01.2026 21:25:48.243 : Information - Sheet "CP03" / Row 32 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС20 Резерв' Added
+21.01.2026 21:25:48.246 : Information - Sheet "CP03" / Row 33 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС24 Резерв' exported, not modified.
+21.01.2026 21:25:48.246 : Information - Sheet "CP03" / Row 33 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС24 Резерв' Added
+21.01.2026 21:25:48.252 : Information - Sheet "CP03" / Row 34 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС23 Резерв' exported, not modified.
+21.01.2026 21:25:48.252 : Information - Sheet "CP03" / Row 34 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС23 Резерв' Added
+21.01.2026 21:25:48.255 : Information - Sheet "CP03" / Row 35 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС22 Резерв' exported, not modified.
+21.01.2026 21:25:48.255 : Information - Sheet "CP03" / Row 35 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС22 Резерв' Added
+21.01.2026 21:25:48.258 : Information - Sheet "CP03" / Row 36 - Object 'Ozerna    CP3 Addr1 AkonTC24  ТС21 Резерв' exported, not modified.
+21.01.2026 21:25:48.258 : Information - Sheet "CP03" / Row 36 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozerna    CP3 Addr1 AkonTC24  ТС21 Резерв' Added
+21.01.2026 21:25:48.261 : Information - Sheet "CP03" / Row 37 - Object 'Ozerna    CP3Addr32 Akon 310  ТВ02 U2 сш110 Поставили310' exported, not modified.
+21.01.2026 21:25:48.261 : Information - Sheet "CP03" / Row 37 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | MFI  : Ozerna    CP3Addr32 Akon 310  ТВ02 U2 сш110 Поставили310' Added
+21.01.2026 21:25:48.264 : Information - Sheet "CP03" / Row 38 - Object 'Ozerna    CP3Addr32 Akon 310  ТВ01 Ia ВД-110 кВ Т-2' exported, not modified.
+21.01.2026 21:25:48.264 : Information - Sheet "CP03" / Row 38 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | MFI  : Ozerna    CP3Addr32 Akon 310  ТВ01 Ia ВД-110 кВ Т-2' Added
+21.01.2026 21:25:48.270 : Information - Sheet "CP03" / Row 39 - Object 'Ozerna    CP3Addr32 Akon 310  ТК01 відокремувачемВД110Т2' exported, not modified.
+21.01.2026 21:25:48.270 : Information - Sheet "CP03" / Row 39 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SCO  : Ozerna    CP3Addr32 Akon 310  ТК01 відокремувачемВД110Т2' Added
+21.01.2026 21:25:48.273 : Information - Sheet "CP03" / Row 40 - Object 'Ozerna    CP3Addr32 Akon 310  ТС01ключ М0/Д(1) ВД110кВТ2' exported, not modified.
+21.01.2026 21:25:48.273 : Information - Sheet "CP03" / Row 40 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС01ключ М0/Д(1) ВД110кВТ2' Added
+21.01.2026 21:25:48.276 : Information - Sheet "CP03" / Row 41 - Object 'Ozerna    CP3Addr32 Akon 310  ТС02 Положення КЗ' exported, not modified.
+21.01.2026 21:25:48.276 : Information - Sheet "CP03" / Row 41 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС02 Положення КЗ' Added
+21.01.2026 21:25:48.279 : Information - Sheet "CP03" / Row 42 - Object 'Ozerna    CP3Addr32 Akon 310  ТС03 Положення ВД' exported, not modified.
+21.01.2026 21:25:48.279 : Information - Sheet "CP03" / Row 42 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС03 Положення ВД' Added
+21.01.2026 21:25:48.283 : Information - Sheet "CP03" / Row 43 - Object 'Ozerna    CP3Addr32 Akon 310  ТС04 Газ. захист на сигнал' exported, not modified.
+21.01.2026 21:25:48.283 : Information - Sheet "CP03" / Row 43 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС04 Газ. захист на сигнал' Added
+21.01.2026 21:25:48.286 : Information - Sheet "CP03" / Row 44 - Object 'Ozerna    CP3Addr33 Akon 314  ТВ02 U(Поставили 314 Акон)' exported, not modified.
+21.01.2026 21:25:48.286 : Information - Sheet "CP03" / Row 44 - Object name 'CP3Addr33 CВ-110 кВ | MFI  : Ozerna    CP3Addr33 Akon 314  ТВ02 U(Поставили 314 Акон)' Added
+21.01.2026 21:25:48.294 : Information - Sheet "CP03" / Row 45 - Object 'Ozerna    CP3Addr33 Akon 314  ТВ01 Ia CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.294 : Information - Sheet "CP03" / Row 45 - Object name 'CP3Addr33 CВ-110 кВ | MFI  : Ozerna    CP3Addr33 Akon 314  ТВ01 Ia CВ-110 кВ' Added
+21.01.2026 21:25:48.297 : Information - Sheet "CP03" / Row 46 - Object 'Ozerna    CP3Addr33 Akon 314  ТК01 вимикачем CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.297 : Information - Sheet "CP03" / Row 46 - Object name 'CP3Addr33 CВ-110 кВ | SCO  : Ozerna    CP3Addr33 Akon 314  ТК01 вимикачем CВ-110 кВ' Added
+21.01.2026 21:25:48.300 : Information - Sheet "CP03" / Row 47 - Object 'Ozerna    CP3Addr33 Akon 314  ТС01 М(0)/Д(1) CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.300 : Information - Sheet "CP03" / Row 47 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС01 М(0)/Д(1) CВ-110 кВ' Added
+21.01.2026 21:25:48.304 : Information - Sheet "CP03" / Row 48 - Object 'Ozerna    CP3Addr33 Akon 314  ТС02 Полож. CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.304 : Information - Sheet "CP03" / Row 48 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС02 Полож. CВ-110 кВ' Added
+21.01.2026 21:25:48.307 : Information - Sheet "CP03" / Row 49 - Object 'Ozerna    CP3Addr33 Akon 314  ТС03 Резерв CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.308 : Information - Sheet "CP03" / Row 49 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС03 Резерв CВ-110 кВ' Added
+21.01.2026 21:25:48.313 : Information - Sheet "CP03" / Row 50 - Object 'Ozerna    CP3Addr33 Akon 314  ТС04 Резерв CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.313 : Information - Sheet "CP03" / Row 50 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС04 Резерв CВ-110 кВ' Added
+21.01.2026 21:25:48.316 : Information - Sheet "CP03" / Row 51 - Object 'Ozerna    CP3Addr34 Akon 314  ТВ02 U(Поставили 314 Акон)' exported, not modified.
+21.01.2026 21:25:48.316 : Information - Sheet "CP03" / Row 51 - Object name 'CP3Addr34 CВ-110 кВ | MFI  : Ozerna    CP3Addr34 Akon 314  ТВ02 U(Поставили 314 Акон)' Added
+21.01.2026 21:25:48.319 : Information - Sheet "CP03" / Row 52 - Object 'Ozerna    CP3Addr34 Akon 314  ТВ01' exported, not modified.
+21.01.2026 21:25:48.319 : Information - Sheet "CP03" / Row 52 - Object name 'CP3Addr34 CВ-110 кВ | MFI  : Ozerna    CP3Addr34 Akon 314  ТВ01' Added
+21.01.2026 21:25:48.322 : Information - Sheet "CP03" / Row 53 - Object 'Ozerna    CP3Addr34 Akon 314  ТК01' exported, not modified.
+21.01.2026 21:25:48.322 : Information - Sheet "CP03" / Row 53 - Object name 'CP3Addr34 CВ-110 кВ | SCO  : Ozerna    CP3Addr34 Akon 314  ТК01' Added
+21.01.2026 21:25:48.325 : Information - Sheet "CP03" / Row 54 - Object 'Ozerna    CP3Addr34 Akon 314  ТС01 Автомат 24в' exported, not modified.
+21.01.2026 21:25:48.325 : Information - Sheet "CP03" / Row 54 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС01 Автомат 24в' Added
+21.01.2026 21:25:48.330 : Information - Sheet "CP03" / Row 55 - Object 'Ozerna    CP3Addr34 Akon 314  ТС02 положення АПВ' exported, not modified.
+21.01.2026 21:25:48.330 : Information - Sheet "CP03" / Row 55 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС02 положення АПВ' Added
+21.01.2026 21:25:48.334 : Information - Sheet "CP03" / Row 56 - Object 'Ozerna    CP3Addr34 Akon 314  ТС03 ОперструмГЩУ CВ110 кВ' exported, not modified.
+21.01.2026 21:25:48.334 : Information - Sheet "CP03" / Row 56 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС03 ОперструмГЩУ CВ110 кВ' Added
+21.01.2026 21:25:48.337 : Information - Sheet "CP03" / Row 57 - Object 'Ozerna    CP3Addr34 Akon 314  ТС04ДодаткРезерв CВ-110 кВ' exported, not modified.
+21.01.2026 21:25:48.337 : Information - Sheet "CP03" / Row 57 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС04ДодаткРезерв CВ-110 кВ' Added
+21.01.2026 21:25:48.340 : Information - Sheet "CP03" / Row 58 - Object '' exported, not modified.
+21.01.2026 21:25:48.340 : Information - Sheet "CP03" / Row 58 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.343 : Information - Sheet "CP03" / Row 59 - Object '' exported, not modified.
+21.01.2026 21:25:48.343 : Information - Sheet "CP03" / Row 59 - Object name 'CP3 Addr1 шафа ТМ | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.349 : Information - Sheet "CP03" / Row 60 - Object '' exported, not modified.
+21.01.2026 21:25:48.349 : Information - Sheet "CP03" / Row 60 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.351 : Information - Sheet "CP03" / Row 61 - Object '' exported, not modified.
+21.01.2026 21:25:48.351 : Information - Sheet "CP03" / Row 61 - Object name 'CP3Addr33 CВ-110 кВ | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.355 : Information - Sheet "CP03" / Row 62 - Object '' exported, not modified.
+21.01.2026 21:25:48.355 : Information - Sheet "CP03" / Row 62 - Object name 'CP3Addr34 CВ-110 кВ | SEV [#048: Device inoperable]' Added
+21.01.2026 21:25:48.355 : Information - RTU "Ozerna" - 0 rows updated, 57 rows added, 0 rows deleted, 137 rows processed
+21.01.2026 21:25:48.355 : Information - RTU "Ozerna" - Finished export worksheet 'CP03'
+21.01.2026 21:25:48.421 : Information - RTU "Ozerna" - 0 errors, 0 warnings
+21.01.2026 21:25:48.421 : Information - RTU "Ozerna" - Export completed.

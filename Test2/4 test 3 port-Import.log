@@ -1,0 +1,289 @@
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Import started.
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Started import of worksheet "CP02".
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 6 - Worksheet 'CP02' row 6 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 6 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС04 Резерв к10  Бакали' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 7 - Worksheet 'CP02' row 7 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 7 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС03 Резерв к10  Бакали' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 8 - Worksheet 'CP02' row 8 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 8 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС02Полож к10 10 кВ Бакали' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 9 - Worksheet 'CP02' row 9 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 9 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SPI  : Ozerna    CP2 Addr10Akon 310  ТС01 М(0)/Д(1) к10 Бакали' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 10 - Worksheet 'CP02' row 10 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 10 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SCO  : Ozerna    CP2 Addr10Akon 310  ТК01 ком. 10 В-10 Бакали' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 11 - Worksheet 'CP02' row 11 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 11 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | MFI  : Ozerna    CP2 Addr10Akon 310  ТВ01 Ia к 10 Бакали' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 12 - Worksheet 'CP02' row 12 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 12 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС01 М(0)/Д(1) к8 СВ-10' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 13 - Worksheet 'CP02' row 13 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 13 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС02 Полож к8 В-10 кВ СВ10' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 14 - Worksheet 'CP02' row 14 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 14 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SCO  : Ozerna    CP2 Addr08Akon 310  ТК01 Керув к8 В-10 кВ СВ10' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 15 - Worksheet 'CP02' row 15 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 15 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | MFI  : Ozerna    CP2 Addr08Akon 310  ТВ01 Ia к8 В-10 кВ СВ-10' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 16 - Worksheet 'CP02' row 16 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 16 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС03 контроль ШУ' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 17 - Worksheet 'CP02' row 17 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 17 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SPI  : Ozerna    CP2 Addr08Akon 310  ТС04Резерв к8 В-10 кВ СВ10' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 18 - Worksheet 'CP02' row 18 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 18 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС04 "Земля" в мережі 2сш.' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 19 - Worksheet 'CP02' row 19 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 19 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС03 Несправність ТН-10-2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 20 - Worksheet 'CP02' row 20 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 20 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС02 Полож к12 Щербаки' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 21 - Worksheet 'CP02' row 21 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 21 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SPI  : Ozerna    CP2 Addr12Akon 310  ТС01 М(0)/Д(1) к12 Щербаки' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 22 - Worksheet 'CP02' row 22 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 22 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SCO  : Ozerna    CP2 Addr12Akon 310  ТК01 Керув. к.12 Щербаки' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 23 - Worksheet 'CP02' row 23 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 23 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | MFI  : Ozerna    CP2 Addr12Akon 310  ТВ01 Ia к12 Щербаки' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 24 - Worksheet 'CP02' row 24 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 24 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС04 Резерв к.14 Т-2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 25 - Worksheet 'CP02' row 25 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 25 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС03 Резерв к.14 Т-2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 26 - Worksheet 'CP02' row 26 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 26 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС02 Полож. к.14 Т-2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 27 - Worksheet 'CP02' row 27 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 27 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SPI  : Ozerna    CP2 Addr16Akon 310  ТС01 М(0)/Д(1) ком.14 Т2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 28 - Worksheet 'CP02' row 28 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 28 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SCO  : Ozerna    CP2 Addr16Akon 310  ТК01 Керув. к14 В-10 кВ Т2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 29 - Worksheet 'CP02' row 29 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 29 - Object name 'CP2 Addr16 В-10 кВ Т-2 | MFI  : Ozerna    CP2 Addr16Akon 310  ТВ02 UАB 2 сш.10кВ' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 30 - Worksheet 'CP02' row 30 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 30 - Object name 'CP2 Addr16 В-10 кВ Т-2 | MFI  : Ozerna    CP2 Addr16Akon 310  ТВ01 Ia к14 В-10 кВ Т-2' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 31 - Worksheet 'CP02' row 31 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 31 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС04 Резерв ком.11 РП1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 32 - Worksheet 'CP02' row 32 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 32 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС03 Резерв ком.11 РП1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 33 - Worksheet 'CP02' row 33 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 33 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС02 Полож к.11 В10 кВ РП1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 34 - Worksheet 'CP02' row 34 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 34 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SPI  : Ozerna    CP2 Addr11Akon 310  ТС01 М(0)/Д(1) к11 РП 1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 35 - Worksheet 'CP02' row 35 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 35 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SCO  : Ozerna    CP2 Addr11Akon 310  ТК01Керув ком11 В10 кВ РП1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 36 - Worksheet 'CP02' row 36 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 36 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | MFI  : Ozerna    CP2 Addr11Akon 310  ТВ01 Ia  к.11 В-10 кВ РП 1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 37 - Worksheet 'CP02' row 37 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 37 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС01 М(0)/Д(1) к7Сільгосп.' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 38 - Worksheet 'CP02' row 38 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 38 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС02 Полож к7Сільгосп. Тех' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 39 - Worksheet 'CP02' row 39 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 39 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SCO  : Ozerna    CP2 Addr07Akon 310  ТК01 Керув к7Сільгосп. Тех' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 40 - Worksheet 'CP02' row 40 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 40 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | MFI  : Ozerna    CP2 Addr07Akon 310  ТВ01 Ia к7 Сільгосп. Тех.' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 41 - Worksheet 'CP02' row 41 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 41 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС03Резерв к7Сільгосп. Тех' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 42 - Worksheet 'CP02' row 42 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 42 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SPI  : Ozerna    CP2 Addr07Akon 310  ТС04Резерв к7Сільгосп. Тех' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 43 - Worksheet 'CP02' row 43 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 43 - Object name 'CP2 Addr10 В-10 кВ "Бакали" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 44 - Worksheet 'CP02' row 44 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 44 - Object name 'CP2 Addr08 В-10 кВ СВ-10 | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 45 - Worksheet 'CP02' row 45 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 45 - Object name 'CP2 Addr12 В-10 кВ "Щербаки" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 46 - Worksheet 'CP02' row 46 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 46 - Object name 'CP2 Addr16 В-10 кВ Т-2 | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 47 - Worksheet 'CP02' row 47 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 47 - Object name 'CP2 Addr11 В-10 кВ "РП -1" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 48 - Worksheet 'CP02' row 48 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP02" / Row 48 - Object name 'CP2 Addr07 В-10 кВ "Сільгосп. Тех." | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - 0 objects updated, 0 added, 43 processed
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Finished import of worksheet "CP02".
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Started import of worksheet "CP01".
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 6 - Worksheet 'CP01' row 6 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 6 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС04 Резерв к1 10кВ Резерв' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 7 - Worksheet 'CP01' row 7 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 7 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС03 Резерв к1 10кВ Резерв' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 8 - Worksheet 'CP01' row 8 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 8 - Object name 'CP1 Addr1 10 кВ "Резерв" | MFI  : Ozerna    CP1 Addr1kAkon 310  ТВ01 Ia к1 10 кВ Резерв' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 9 - Worksheet 'CP01' row 9 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 9 - Object name 'CP1 Addr1 10 кВ "Резерв" | SCO  : Ozerna    CP1 Addr1kAkon 310  ТК01 к1 10 кВ "Резерв"' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 10 - Worksheet 'CP01' row 10 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 10 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС02 Полож к1 10 кВ Резерв' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 11 - Worksheet 'CP01' row 11 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 11 - Object name 'CP1 Addr1 10 кВ "Резерв" | SPI  : Ozerna    CP1 Addr1kAkon 310  ТС01 М(0)/Д(1) к1 Резерв' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 12 - Worksheet 'CP01' row 12 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 12 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС04 Резерв к2 "Межовий"' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 13 - Worksheet 'CP01' row 13 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 13 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС03 Резерв к2 "Межовий"' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 14 - Worksheet 'CP01' row 14 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 14 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | MFI  : Ozerna    CP1 Addr2kAkon 310  ТВ01 Ia к2 В-10 кВ Межовий' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 15 - Worksheet 'CP01' row 15 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 15 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SCO  : Ozerna    CP1 Addr2kAkon 310  ТК01 вимикачем к2 Межовий' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 16 - Worksheet 'CP01' row 16 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 16 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС02 Полож к2 В-10 Межовий' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 17 - Worksheet 'CP01' row 17 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 17 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SPI  : Ozerna    CP1 Addr2kAkon 310  ТС01 М(0)/Д(1) к2 Межовий' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 18 - Worksheet 'CP01' row 18 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 18 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС04 Резерв к3 В-10 кВ Т-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 19 - Worksheet 'CP01' row 19 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 19 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС03 Резерв к3 В-10 кВ Т-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 20 - Worksheet 'CP01' row 20 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 20 - Object name 'CP1 Addr3  В-10 кВ Т-1 | MFI  : Ozerna    CP1 Addr3kAkon 314  ТВ02 UАB 1 сш. 10 кВ к3 Т1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 21 - Worksheet 'CP01' row 21 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 21 - Object name 'CP1 Addr3  В-10 кВ Т-1 | MFI  : Ozerna    CP1 Addr3kAkon 314  ТВ01 Ia ком.3 В-10 кВ Т-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 22 - Worksheet 'CP01' row 22 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 22 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SCO  : Ozerna    CP1 Addr3kAkon 314  ТК01 Керування к3 В10 Т-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 23 - Worksheet 'CP01' row 23 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 23 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС02 Полож. к3 В10 кВ Т-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 24 - Worksheet 'CP01' row 24 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 24 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SPI  : Ozerna    CP1 Addr3kAkon 314  ТС01 М(0)/Д(1) к3 Т-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 25 - Worksheet 'CP01' row 25 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 25 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС04 Резерв к6  Сорокотяги' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 26 - Worksheet 'CP01' row 26 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 26 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС03 Резерв к6  Сорокотяги' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 27 - Worksheet 'CP01' row 27 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 27 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС02 Полож к6 Сорокотяги' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 28 - Worksheet 'CP01' row 28 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 28 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SPI  : Ozerna    CP1 Addr6kAkon 310  ТС01 М(0)/Д(1)к6Сорокотяги' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 29 - Worksheet 'CP01' row 29 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 29 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SCO  : Ozerna    CP1 Addr6kAkon 310  ТК01  к6 Сорокотяги' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 30 - Worksheet 'CP01' row 30 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 30 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | MFI  : Ozerna    CP1 Addr6kAkon 310  ТВ01 Ia к6 Сорокотяги' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 31 - Worksheet 'CP01' row 31 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 31 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | MFI  : Ozerna    CP1 Addr5kAkon 310  ТВ01 Ia к5 Б. Гребля' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 32 - Worksheet 'CP01' row 32 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 32 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SCO  : Ozerna    CP1 Addr5kAkon 310  ТК01 Керування к5 Б.Гребля' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 33 - Worksheet 'CP01' row 33 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 33 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС04  "Земля" 1сш.' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 34 - Worksheet 'CP01' row 34 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 34 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС03 Несправність ТН-10-1' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 35 - Worksheet 'CP01' row 35 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 35 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС02 Полож. К5 Б. Гребля' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 36 - Worksheet 'CP01' row 36 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 36 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SPI  : Ozerna    CP1 Addr5kAkon 310  ТС01 М(0)/Д(1) к5 Б.Гребля' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 37 - Worksheet 'CP01' row 37 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 37 - Object name 'CP1 Addr1 10 кВ "Резерв" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 38 - Worksheet 'CP01' row 38 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 38 - Object name 'CP1 Addr2 В-10 кВ "Межовий" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 39 - Worksheet 'CP01' row 39 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 39 - Object name 'CP1 Addr3  В-10 кВ Т-1 | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 40 - Worksheet 'CP01' row 40 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 40 - Object name 'CP1 Addr6 В-10 кВ "Сорокотяги" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 41 - Worksheet 'CP01' row 41 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP01" / Row 41 - Object name 'CP1 Addr5 В-10 кВ "Б. Гребля" | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - 0 objects updated, 0 added, 79 processed
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Finished import of worksheet "CP01".
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Started import of worksheet "Local IO".
+17.01.2026 14:19:34.373 : Information - Sheet "Local IO" / Row 6 - Worksheet 'Local IO' row 6 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "Local IO" / Row 6 - Object name 'Ozerna | SEV [#023: RTU is faulty]' Unchanged
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - 0 objects updated, 0 added, 80 processed
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Finished import of worksheet "Local IO".
+17.01.2026 14:19:34.373 : Information - RTU "Ozerna" - Started import of worksheet "CP03".
+17.01.2026 14:19:34.373 : Information - Sheet "CP03" / Row 6 - Worksheet 'CP03' row 6 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP03" / Row 6 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | MFI  : Ozerna    CP3Addr31 Akon 314  ТВ02 U сш110_боАкон310' Unchanged
+17.01.2026 14:19:34.373 : Information - Sheet "CP03" / Row 7 - Worksheet 'CP03' row 7 successfully imported.
+17.01.2026 14:19:34.373 : Information - Sheet "CP03" / Row 7 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | MFI  : Ozerna    CP3Addr31 Akon 314  ТВ01 Ia ВД110 кВ Т1' Unchanged
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 8 - Worksheet 'CP03' row 8 successfully imported.
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 8 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SCO  : Ozerna    CP3Addr31 Akon 314  ТК01 відокремувачемВД110Т1' Unchanged
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 9 - Worksheet 'CP03' row 9 successfully imported.
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 9 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС01ключМ0/Д(1) ВД110кВ Т1' Unchanged
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 10 - Worksheet 'CP03' row 10 successfully imported.
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 10 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС02 Положення КЗ' Unchanged
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 11 - Worksheet 'CP03' row 11 successfully imported.
+17.01.2026 14:19:34.389 : Information - Sheet "CP03" / Row 11 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС03 Положення ВД' Unchanged
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 12 - Worksheet 'CP03' row 12 successfully imported.
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 12 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SPI  : Ozerna    CP3Addr31 Akon 314  ТС04 Газ. захист на сигнал' Unchanged
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 13 - Worksheet 'CP03' row 13 successfully imported.
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 13 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС24 Резерв' Modified
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 14 - Worksheet 'CP03' row 14 successfully imported.
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 14 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС23 Резерв' Modified
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 15 - Worksheet 'CP03' row 15 successfully imported.
+17.01.2026 14:19:34.390 : Information - Sheet "CP03" / Row 15 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС22 Резерв' Modified
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 16 - Worksheet 'CP03' row 16 successfully imported.
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 16 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС21 Резерв' Modified
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 17 - Worksheet 'CP03' row 17 successfully imported.
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 17 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС20 Резерв' Modified
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 18 - Worksheet 'CP03' row 18 successfully imported.
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 18 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС19 Резерв' Modified
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 19 - Worksheet 'CP03' row 19 successfully imported.
+17.01.2026 14:19:34.391 : Information - Sheet "CP03" / Row 19 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС18 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 20 - Worksheet 'CP03' row 20 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 20 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС17 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 21 - Worksheet 'CP03' row 21 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 21 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС16 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 22 - Worksheet 'CP03' row 22 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 22 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС15 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 23 - Worksheet 'CP03' row 23 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 23 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС14 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 24 - Worksheet 'CP03' row 24 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 24 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС13 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 25 - Worksheet 'CP03' row 25 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 25 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС12 Резерв' Modified
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 26 - Worksheet 'CP03' row 26 successfully imported.
+17.01.2026 14:19:34.392 : Information - Sheet "CP03" / Row 26 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС11 Перегруз Т-1' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 27 - Worksheet 'CP03' row 27 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 27 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС10 Перегруз Т-2' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 28 - Worksheet 'CP03' row 28 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 28 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС09 Попередження' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 29 - Worksheet 'CP03' row 29 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 29 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС08 Аварія' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 30 - Worksheet 'CP03' row 30 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 30 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС07 Резерв' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 31 - Worksheet 'CP03' row 31 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 31 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС06 Резерв' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 32 - Worksheet 'CP03' row 32 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 32 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС05 Резерв' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 33 - Worksheet 'CP03' row 33 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 33 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС04 АВ в шафі ТМ вимкнено' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 34 - Worksheet 'CP03' row 34 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 34 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС03 Двері КП (шафи ТМ)' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 35 - Worksheet 'CP03' row 35 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 35 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС02 Ключ М0/Д1 ПС Озерна' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 36 - Worksheet 'CP03' row 36 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 36 - Object name 'CP3 Addr1 шафа ТМ | SPI  : Ozirna    CP3 Addr1 AkonTC24  ТС01 Живлення КП (шафи ТМ)' Modified
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 37 - Worksheet 'CP03' row 37 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 37 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | MFI  : Ozerna    CP3Addr32 Akon 310  ТВ02 U2 сш110 Поставили310' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 38 - Worksheet 'CP03' row 38 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 38 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | MFI  : Ozerna    CP3Addr32 Akon 310  ТВ01 Ia ВД-110 кВ Т-2' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 39 - Worksheet 'CP03' row 39 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 39 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SCO  : Ozerna    CP3Addr32 Akon 310  ТК01 відокремувачемВД110Т2' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 40 - Worksheet 'CP03' row 40 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 40 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС01ключ М0/Д(1) ВД110кВТ2' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 41 - Worksheet 'CP03' row 41 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 41 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС02 Положення КЗ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 42 - Worksheet 'CP03' row 42 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 42 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС03 Положення ВД' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 43 - Worksheet 'CP03' row 43 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 43 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SPI  : Ozerna    CP3Addr32 Akon 310  ТС04 Газ. захист на сигнал' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 44 - Worksheet 'CP03' row 44 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 44 - Object name 'CP3Addr33 CВ-110 кВ | MFI  : Ozerna    CP3Addr33 Akon 314  ТВ02 U(Поставили 314 Акон)' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 45 - Worksheet 'CP03' row 45 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 45 - Object name 'CP3Addr33 CВ-110 кВ | MFI  : Ozerna    CP3Addr33 Akon 314  ТВ01 Ia CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 46 - Worksheet 'CP03' row 46 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 46 - Object name 'CP3Addr33 CВ-110 кВ | SCO  : Ozerna    CP3Addr33 Akon 314  ТК01 вимикачем CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 47 - Worksheet 'CP03' row 47 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 47 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС01 М(0)/Д(1) CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 48 - Worksheet 'CP03' row 48 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 48 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС02 Полож. CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 49 - Worksheet 'CP03' row 49 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 49 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС03 Резерв CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 50 - Worksheet 'CP03' row 50 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 50 - Object name 'CP3Addr33 CВ-110 кВ | SPI  : Ozerna    CP3Addr33 Akon 314  ТС04 Резерв CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 51 - Worksheet 'CP03' row 51 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 51 - Object name 'CP3Addr34 CВ-110 кВ | MFI  : Ozerna    CP3Addr34 Akon 314  ТВ02 U(Поставили 314 Акон)' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 52 - Worksheet 'CP03' row 52 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 52 - Object name 'CP3Addr34 CВ-110 кВ | MFI  : Ozerna    CP3Addr34 Akon 314  ТВ01' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 53 - Worksheet 'CP03' row 53 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 53 - Object name 'CP3Addr34 CВ-110 кВ | SCO  : Ozerna    CP3Addr34 Akon 314  ТК01' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 54 - Worksheet 'CP03' row 54 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 54 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС01 Автомат 24в' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 55 - Worksheet 'CP03' row 55 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 55 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС02 положення АПВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 56 - Worksheet 'CP03' row 56 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 56 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС03 ОперструмГЩУ CВ110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 57 - Worksheet 'CP03' row 57 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 57 - Object name 'CP3Addr34 CВ-110 кВ | SPI  : Ozerna    CP3Addr34 Akon 314  ТС04ДодаткРезерв CВ-110 кВ' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 58 - Worksheet 'CP03' row 58 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 58 - Object name 'CP3Addr31 ВД-110 кВ Т-1 | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 59 - Worksheet 'CP03' row 59 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 59 - Object name 'CP3 Addr1 шафа ТМ | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 60 - Worksheet 'CP03' row 60 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 60 - Object name 'CP3Addr32 ВД-110 кВ Т-2 | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 61 - Worksheet 'CP03' row 61 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 61 - Object name 'CP3Addr33 CВ-110 кВ | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 62 - Worksheet 'CP03' row 62 successfully imported.
+17.01.2026 14:19:34.393 : Information - Sheet "CP03" / Row 62 - Object name 'CP3Addr34 CВ-110 кВ | SEV [#048: Device inoperable]' Unchanged
+17.01.2026 14:19:34.393 : Information - RTU "Ozerna" - 24 objects updated, 0 added, 137 processed
+17.01.2026 14:19:34.393 : Information - RTU "Ozerna" - Finished import of worksheet "CP03".
+17.01.2026 14:19:34.393 : Information - RTU "Ozerna" - 0 errors, 0 warnings
+17.01.2026 14:19:34.393 : Information - RTU "Ozerna" - Import completed.
